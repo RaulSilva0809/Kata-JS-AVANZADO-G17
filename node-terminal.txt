@@ -1,0 +1,10 @@
+node --version //concoer la version instalada
+pwd //ruta en la que nos encontramos
+ls //lista de archivos en la ruta que nos encotramos 
+mkdir// creacion de carpetas
+cd // entrar a una ruta o retroceder
+touch (archivo)// crea un archivo 
+nano (archivo)//Editor de codigo 
+npm init -y// genera un json sobre la informacion del proyecto 
+npm install nodemon //creacion de demonio
+"start": "nodemon index.js" // codigo que nos ayuda guardar en automatico lo cambios
